@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Today, June 24</string>
+    <string name="action_settings">Settings</string>
+    <string name="date">Today, June 24</string>
+    <string name="tem_h">21°</string>
+    <string name="tem_l">8°</string>
+    <string name="wethr">Cloudy</string>
+    <string name="forcast">Today- Sunny - 88/63</string>
+    <string name="Rnme">Reminder Name</string>
+    <string name="bN">Done</string>
+
+</resources>
