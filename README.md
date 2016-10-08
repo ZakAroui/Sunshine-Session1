@@ -4,6 +4,8 @@ This is the first code that we would be working on, at the Android Student Club 
 
 to learn more about the Android Stduent club at IGEE please visit this [link][1]
 
+![ASC](/ASCbackground.png "ASC")
+
 [1]: https://plus.google.com/u/0/107414294214577365950 "title"
 
 
